@@ -1,13 +1,11 @@
-# Projet PacMan
+# PacMan project
 
-L'archive contient :
- - Pacman.jar qui est l'exécutable de notre programme
- - Un dossier contenant toute la javadoc
- - Un dossier src comprenant toutes les classes et interfaces de notre programme
-   répertoriés selon trois packages (View, Logic et Data)
+You will find :
+ - Pacman.jar which is the executable of our programm
+ - a folder "javadoc" with all the javadoc
+ - a folder "src" with classes and interfaces of our program listed in three packages (View, Logic et Data)
 
-Pour lancer le programme, soit vous pouvez le lancer directement avec Pacman.jar, 
-soit vous pouvez le lancer via la commande "bash build.sh" en vous trouvant à la
-racine du fichier.
+To run the program you can either launch it by clicking on "Pacman.jar" or you can launch it with the command "bash build.sh" 
+(you have to be at the root of the main folder).
 
 
