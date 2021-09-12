@@ -6,7 +6,7 @@ L'archive contient :
  - Un dossier src comprenant toutes les classes et interfaces de notre programme
    répertoriés selon trois packages (View, Logic et Data)
 
-Pour lancer le programme, soit vous pouvez lancer Pacman.jar, 
+Pour lancer le programme, soit vous pouvez le lancer directement avec Pacman.jar, 
 soit vous pouvez le lancer via la commande "bash build.sh" en vous trouvant à la
 racine du fichier.
 
